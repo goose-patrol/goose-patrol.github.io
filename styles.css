@@ -29,12 +29,6 @@ h2, h3{
   padding: 0px;
   flex-direction: row;
 }
-#executable_div{
+#executable_div, #repository_div, #documents_div, #supplementaryDocuments_div{
   flex: 1;
-}
-#repository_div{
-  flex: 1;
-}
-#documents_div{
-  
 }
